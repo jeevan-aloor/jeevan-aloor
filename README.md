@@ -1,6 +1,8 @@
 # Hello 👋,I'm Jeevan Aloor
 ### :brain: Asparing Full stack web developer
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=8136F7&background=FFEF3000&width=439&height=80&lines=Learning+React.js;Learned+javascript;Learned+Html;Learned+css)](https://git.io/typing-svg)
+
 
  :point_right: From karnataka udupi(D),i learned full stack web developer at masai school,and im very intrested in coding and im passionate building fully functionally web applications
 
