@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 -  📫  Reach me:https://www.linkedin.com/in/jeevan-aloor-228237232/
 -  ⚡ Fun fact: Im very intrested in playing cricket & vollyball  
 -  :dizzy: More About:https://drive.google.com/file/d/1vXNnEaDGbJDBn9hj9nRX71evBO-dTzUa/view?usp=sharing
--  :boom: Projects:
+-  :boom: Projects:https://jeevan-aloor.github.io/
 
 
