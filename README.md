@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeevan-aloor)](https://github.com/jeevan-aloor/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-aloor)](https://github.com/jeevan-aloor/github-readme-stats)
