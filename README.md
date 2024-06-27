@@ -1,8 +1,5 @@
 
 ![](https://media.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif)
-
-![  Full Stack Web Developer](https://camo.githubusercontent.com/5f533138dee92ba05d85a704f81eeb66f7966084fcb70b6182ea8f88a5a3bf3b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57465a7642375649584267697a336f4458452f67697068792e676966)
-
  # Hi there 👋, I'm Jeevan Aloor
 ####   Full Stack Web Developer
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=8136F7&background=FFEF3000&width=439&height=80&lines=Learning+React.js;Learned+javascript;Learned+Html;Learned+css)](https://git.io/typing-svg)
