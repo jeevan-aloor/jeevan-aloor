@@ -1,11 +1,12 @@
 
 ![](https://media.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif)
 
+![  Full Stack Web Developer](https://camo.githubusercontent.com/5f533138dee92ba05d85a704f81eeb66f7966084fcb70b6182ea8f88a5a3bf3b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57465a7642375649584267697a336f4458452f67697068792e676966)
 
  # Hi there 👋, I'm Jeevan Aloor
-####   Aspiring Full Stack Web Developer
+####   Full Stack Web Developer
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=8136F7&background=FFEF3000&width=439&height=80&lines=Learning+React.js;Learned+javascript;Learned+Html;Learned+css)](https://git.io/typing-svg)
-![  Aspiring Full Stack Web Developer](https://camo.githubusercontent.com/ee6a09119c2c0dbcbc6e99f2ab01b5814df6782efdf15234bf0133d5766e4394/68747470733a2f2f7777772e7461676d61727368616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f636172656572732d46756c6c2d537461636b2d446576656c6f7065722e6a7067)
+![  Full Stack Web Developer](https://camo.githubusercontent.com/ee6a09119c2c0dbcbc6e99f2ab01b5814df6782efdf15234bf0133d5766e4394/68747470733a2f2f7777772e7461676d61727368616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f636172656572732d46756c6c2d537461636b2d446576656c6f7065722e6a7067)
 
  :point_right: Hi! My name is Jeevan Aloor, and I'm a I'm a full-stack developer, with project experience building web applications  using a variety of technologies. I'm a self-motivated learner and I'm constantly striving to learn new tools and techniques. I'm also passionate about open source software and regularly contribute to projects on GitHub. I'm always looking for new opportunities to contribute to the development community and to learn from more experienced developers.
 
